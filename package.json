@@ -1,0 +1,24 @@
+{
+  "name": "minecraft-keepalive-bot",
+  "version": "1.0.0",
+  "description": "A simple Mineflayer keep-alive bot for Minecraft servers such as Aternos.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "bot",
+    "afk",
+    "aternos"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.35.0"
+  }
+}
