@@ -87,7 +87,7 @@ function createBot() {
   });
 
   bot.on('kicked', (reason) => {
-  console.log('[Bot] Kicked from server:', JSON.stringify(reason, null, 2))
+  console.log('[Bot] Kicked from server:', JSON.stringify(reason))
 })
 
   bot.on("error", (error) => {
@@ -96,4 +96,5 @@ function createBot() {
 }
 
 createBot();
+
 
