@@ -86,9 +86,9 @@ function createBot() {
     scheduleReconnect();
   });
 
-  bot.on("kicked", (reason) => {
-    console.log(`[Bot] Kicked from server: ${reason}`);
-  });
+  bot.on('kicked', (reason) => {
+  console.log('[Bot] Kicked from server:', JSON.stringify(reason, null, 2))
+})
 
   bot.on("error", (error) => {
     console.log(`[Bot] Error: ${error.message}`);
@@ -96,3 +96,4 @@ function createBot() {
 }
 
 createBot();
+
