@@ -1,6 +1,6 @@
 ﻿{
-  "host": "BABSAUTOMOBILE.aternos.me",
-  "port": 55607,
+  "host": "play.magmc.in",
+  "port": 25565,
   "username": "MinePilotAFK",
   "version": "1.21.11",
   "reconnectDelay": 10000,
