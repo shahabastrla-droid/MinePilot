@@ -1,7 +1,7 @@
 ﻿{
   "host": "BABSAUTOMOBILE.aternos.me",
   "port": 55607,
-  "username": "MinePilotBot",
+  "username": "MinePilotAFK",
   "version": "1.21.11",
   "reconnectDelay": 10000,
   "moveInterval": 30000,
