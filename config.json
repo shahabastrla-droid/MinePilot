@@ -1,6 +1,6 @@
 ﻿{
-  "host": "play.akmcofficial.xyz",
-  "port": 19132,
+  "host": "play.magmc.in",
+  "port": 25565,
   "username": "Vazha",
   "version": "1.21.11",
   "reconnectDelay": 10000,
