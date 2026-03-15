@@ -1,7 +1,7 @@
 ﻿{
-  "host": "keralitesmp.falix.pro",
+  "host": "play.mag.mc",
   "port": 25565,
-  "username": "Keralite",
+  "username": "MAG",
   "version": "1.21.11",
   "reconnectDelay": 10000,
   "moveInterval": 30000,
