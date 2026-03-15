@@ -1,7 +1,7 @@
 ﻿{
   "host": "keralitesmp.falix.pro",
   "port": 25565,
-  "username": "Keralite SMP",
+  "username": "Keralite",
   "version": "1.21.11",
   "reconnectDelay": 10000,
   "moveInterval": 30000,
