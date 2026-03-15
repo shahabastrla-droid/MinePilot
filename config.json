@@ -1,10 +1,10 @@
 ﻿{
-  "host": "play.mag.mc",
-  "port": 25565,
-  "username": "MAG",
+  "host": "play.akmcofficial.xyz",
+  "port": 19132,
+  "username": "Vazha",
   "version": "1.21.11",
   "reconnectDelay": 10000,
   "moveInterval": 30000,
   "chatInterval": 300000,
-  "chatMessage": "Keralite bot active"
+  "chatMessage": "Vazha bot active"
 }
